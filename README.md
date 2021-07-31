@@ -45,7 +45,33 @@ Price Distribution | Price group mapping
 ------------------ | -------------------
 ![Price Distribution](./img/dist-prices.png) | ![Price group mapping](./img/boston.png)
 
+After working on the amenities to include them as features to be used in the price predictor, the following features were used
 
+
+features|coefficients|p_values
+--------|------------|--------
+accommodates|5.00|0.00
+bathrooms|7.95|0.00
+Cable TV|16.67|0.00
+Hair Dryer|0.96|0.00
+Essentials|1.28|0.00
+Dryer|4.26|0.00
+Washer|10.56|0.00
+Family/Kid Friendly|2.78|0.00
+Heating|-3.52|0.00
+Kitchen|-17.95|0.00
+Air Conditioning|17.42|0.00
+Internet|0.68|0.00
+TV|15.24|0.00
+bed_type_Real Bed|3.96|0.00
+bed_type_Pull-out Sofa|-10.84|0.00
+bed_type_Futon|-31.49|0.00
+room_type_Shared room|-83.98|0.00
+room_type_Private room|-75.83|0.00
+guests_included|2.74|0.00
+beds|-2.89|0.00
+bedrooms|21.81|0.00
+24-Hour Check-in|-5.80|0.00
 
 
 ## License
