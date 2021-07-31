@@ -5,8 +5,11 @@ The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process mode
 In this project I will follow the CRISP-DM process model to analyze the Boston AirBnB data set to answer the following questions:
 
 1- How is price impacting the occupancy of Apartments during the year?
+
 1- What other factors may impact the selection of an apartment beisdes de price?
+
 1- Do the physical location of the property has an impact on the occupancy of the property?
+
 1- Model a price predictor based on some features of the listings data set
 
 
