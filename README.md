@@ -39,6 +39,14 @@ In the below image it can be see how the occupancy is highly correlated to the a
 
 ![Distribution of Monthly pricesses](./img/month-prices.png)
 
+Dividing the price in four different price groups, and plotting each group in the map, show that there is not a clear cluster of places, and low and high prices are mixed all around the city.
+
+Price Distribution | Price group mapping
+------------------ | -------------------
+![Price Distribution](./img/dist-prices.png) | ![Price group mapping](./img/boston.png)
+
+
+
 
 ## License
 
