@@ -73,7 +73,7 @@ beds|-2.89|0.00
 bedrooms|21.81|0.00
 24-Hour Check-in|-5.80|0.00
 
-The R2 for the model is 0.561; the model explains only about 56% of the price variability in Bostong AirBnB, which suggests there are several other factors affecting price that are not accounted for in the model.
+The R2 for the model is 0.561; the model explains only about 56% of the price variability in Boston AirBnB, which suggests there are several other factors affecting price that are not accounted for in the model.
 
 ## License
 
