@@ -37,7 +37,7 @@ This analysis will use only the first two files, listings and calendar.
 It may seem obvious that at lower pricess the occupancy will be higer and indeed that was the case, but that also means that in general Boston as a City have very similar places all around the city so there is not a clear differentiator beside the price to help to choose a place.
 In the below image it can be see how the occupancy is highly correlated to the average price. Any sudden change in the price drives the occupancy up or down.
 
-[Distribution of Monthly pricesses](./img/month-prices.png)
+![Distribution of Monthly pricesses](./img/month-prices.png)
 
 
 ## License
