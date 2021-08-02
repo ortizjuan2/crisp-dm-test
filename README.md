@@ -12,6 +12,12 @@ In this project I will follow the CRISP-DM process model to analyze the Boston A
 
 1. Model a price predictor based on some features of the listings data set
 
+## Blog Post
+
+I have written a Blog post with less technical details on this analysis.
+
+[My take on the Boston AirBnB Data using CRISP-DM](https://medium.com/@ortizjuan2/my-take-on-the-boston-airbnb-data-using-crisp-dm-65bd53356acb)
+
 ## Libraries used
 
 To run the associated Jupyter Notebook please ensure your python environment contains the following libraries:
